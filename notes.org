@@ -1,0 +1,45 @@
+
+#+AUTHOR: 
+#+OPTIONS: ^:{}
+#+OPTIONS: \n:t
+
+
+* Notes
+
+** Formateurs
+
+*** Paulina : 1er cours le 21 fev (je crois) 
+Front-end
+HTML, CSS, React 
+Site web : https://pehaa.com/
+
+*** Sofiane : formation côté blockchain, backend, dapp
+ "Savoir-faire"
+
+*** Franck : assistant formateur 
+ "Faire-savoir"
+ Avec nous pour les 6 mois, plutôt côté professionalisation, orientation
+ ne pas trop couper la parole, lever la main avant de préférence…
+ En cas d'absence prévue et justifiée, c'est à lui qu'il faut s'adresser.
+(acces au replay pour les absences)
+
+ Pour le pret de matériel, voir avec Maxime.
+
+
+** Discord
+
+*** BsK
+
+ https://flukeout.github.io/ 
+
+ https://eraseallkittens.com/http://flexboxfroggy.com/#fr 
+
+ https://www.codeavengers.com/profile#all 
+
+*** Stephane coconut
+
+ https://cryptozombies.io/fr/ 
+
+*** Ricardo.eth
+
+ https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_CSS 
