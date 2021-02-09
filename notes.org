@@ -11,7 +11,7 @@
 *** Paulina : 1er cours le 21 fev (je crois) 
 Front-end
 HTML, CSS, React 
-Site web : https://pehaa.com/
+Site web : [[https://pehaa.com/][pehaa.com]]
 
 *** Sofiane : formation côté blockchain, backend, dapp
  "Savoir-faire"
