@@ -1,0 +1,39 @@
+
+#+AUTHOR: 
+#+OPTIONS: 
+
+
+* Installation de nodejs pour Archlinux
+
+Les dépôts node sont à jour sur Arch (v15.8.0 le 10 Février 2021)
+L'installation de nvm est donc optionnelle.
+
+** Installation directe de node
+
+#+begin_src shell
+$ sudo pacman -S nodejs
+#+end_src
+
+** Installation en passant par nvm 
+
+*** 
+ nvm est disponible sur les dépôts AUR.
+ Vous pouvez donc installer nvm avec votre pacman wrapper favori, par exemple avec paru : 
+
+ #+begin_src shell
+ $ paru -S nvm
+ #+end_src
+
+*** Installation manuelle de nvm 
+
+Suivre le Readme sur github.
+
+Si vous avez curl d'installé : 
+#+begin_src shell
+$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+#+end_src
+
+Si vous avez wget d'installé :
+#+begin_src shell
+$ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+#+end_src
